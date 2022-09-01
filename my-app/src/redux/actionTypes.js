@@ -1,0 +1,11 @@
+export const REGISER_START = 'REGISER_START';
+export const REGISER_SUCCESS = 'REGISER_SUCCESS';
+export const REGISER_ERROR = 'REGISER_ERROR';
+
+export const LOGIN_START = 'LOGIN_START';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+
+export const LOGOUT_START = 'LOGOUT_START';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const LOGOUT_ERROR = 'LOGOUT_ERROR';
