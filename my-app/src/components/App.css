@@ -1,0 +1,17 @@
+ul{
+    display: flex;  
+}
+.navLink{
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+li{
+    list-style-type: none;
+    margin-right: 30px;
+}
+.input{
+    height: 40px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
